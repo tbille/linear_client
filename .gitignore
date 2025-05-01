@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Poetry
+poetry.lock
+
+# SGQLC-generated files
+schema.json
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Test results
+htmlcov/
+coverage.xml
+*.cover
+
+# Pytest
+.cache/
+.pytest_cache/
+
+main.py
