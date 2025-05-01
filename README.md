@@ -18,6 +18,7 @@ cd linear-client
 
 # Install dependencies using Poetry
 poetry install
+```
 
 ## Usage
 
@@ -56,6 +57,6 @@ if completed:
 
 ## Running Tests
 
-```python
+```bash
 poetry run pytest
 ```
